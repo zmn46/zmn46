@@ -12,7 +12,7 @@ I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with
 
 🍀 Always Learning:
 
-I believe in continuous learning and staying up-to-date with the latest technologies. Whether it's exploring new libraries or diving into emerging trends, I'm always eager to expand my skill set.
+
 
 Feel free to explore my repositories, and don't hesitate to reach out if you share a passion for coding or want to collaborate on exciting projects!
 
